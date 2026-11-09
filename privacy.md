@@ -4,7 +4,7 @@ Last updated: November 9, 2026
 
 **App name:** Outreach Sequencer
 **Developer:** Hundaol W. Medhin ("I", "me")
-**Contact:** [your outreach Gmail address]
+**Contact:** hundaolmedhin.dc@gmail.com
 
 ## What this app does
 Outreach Sequencer is a personal-use tool that sends scheduled email
